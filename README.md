@@ -1,6 +1,6 @@
 
 <h2>oveview</h2>
-twitter_scrapper is a web app for scraping tweets. Built in python using streamlit and snscrape, you can find tweets by hashtags, set date range and limit the number of tweets. View the result as a dataframe, dump it into a database or download as a csv/json file. 
+twitter_scrapper is a web app for scraping tweets. Built in python using streamlit and snscrape, you can find tweets by hashtags, set date range and limit the number of tweets. View the result as a dataframe, store it into a database or download as a csv/json file. 
 
 <h2>streamlit</h2>
 Streamlit is an open-source Python library used for building custom web apps for machine learning and data science. It has a rich set of features and allows to build and deploy powerful data apps quickly.
